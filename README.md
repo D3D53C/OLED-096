@@ -1,6 +1,4 @@
-# OLED-096
+git clone 
+cd OLED-096
+chmod +x setup.sh
 
-Usage 
-sudo apt install -y python-dev python-smbus i2c-tools python-pil python-pip python-setuptools
-
-git clone $Reponame
